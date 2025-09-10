@@ -35,7 +35,7 @@ def calculate(num1, num2, operator):
         case '+':
             return math_operations.add(num1, num2)
         case '-':
-            return math_operations.substract(num1, num2)
+            return math_operations.subtract(num1, num2)
         case '*':
             return math_operations.multiply(num1, num2)
         case '/':

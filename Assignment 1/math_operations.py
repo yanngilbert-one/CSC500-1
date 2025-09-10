@@ -3,8 +3,8 @@
 #Addition
 def add(num1, num2):
     return num1 + num2
-#Substraction
-def substract(num1, num2):
+#Subtraction
+def subtract(num1, num2):
     return num1 - num2
 #Multiplication
 def multiply(num1, num2):
